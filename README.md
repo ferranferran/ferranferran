@@ -56,4 +56,10 @@
   </footer>
 </body>
 </html>
+<h2>Galería de imágenes</h2>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="imagen1.jpg" alt="Actividad 1" width="200">
+  <img src="imagen2.jpg" alt="Actividad 2" width="200">
+  <img src="imagen3.jpg" alt="Actividad 3" width="200">
+</div>
 
